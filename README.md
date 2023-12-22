@@ -61,7 +61,8 @@ terraform init
 terraform apply
 ```
 
-##Очищення
+## Очищення
+
 Для знищення створених ресурсів Terraform використовуйте:
 
 ```bash
